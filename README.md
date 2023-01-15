@@ -7,3 +7,4 @@ This implementation changes:
                    - i modified it so it only produces one image as the output for a given age group
                    
 Original repo : https://github.com/mattans/AgeProgression
+For extra metrics, I compared the target age with an age given by an age classifier which can be found here: https://github.com/yu4u/age-estimation-pytorch
